@@ -1,0 +1,27 @@
+RELEMBRANDO:
+Variável é uma posição na memória do computador, onde é possível 
+armazenar valores para serem utilizados em um programa.
+
+VETOR:
+-É uma estrutura de dados que armazena vários dados do mesmo grupo;
+-Um vetor começa do índice "0";
+-Um vetor também é conhecido como "array" em outras linguagens de programção;
+-Cada dado fica em uma posição (índice) do vetor;
+-Vetor pode ser visto como uma variável que possui diversas posições e com isso pode armazenar
+diversos valores;
+-Um vetor também pode ser conhecido por colchetes [];
+-Quando existir um número muito grande de variáveis recomenda ultilizarmos um vetor ("array");
+-Para armazenar um dado no vetor, ultizamos o comando leia;
+-Vetores são estruturas estáticas e qye devem ser declaradas antes do uso.  
+
+=== SINTAXE DO VETOR ===
+EXEMPLO 01
+TIPO_DO_VETOR NOME_DO_VETOR [QUANTIDADE DE ELEMENTOS]
+EXEMPLO 02
+cadeia nomeAluno[8]
+inteiro idade[8]
+real mediaFinal[
+
+VETOR
+DECLARAÇÃO DE VETOR 
+LEITURA E ESCRITA DE UM VETOR
