@@ -14,12 +14,12 @@ programa
 	
 	funcao inicio()
 	{
-		real sal = 400.00, acres = 0.05, precoObj[10], quantVendida[10], result = 0, result2[10]
+		real sal = 400.00, acres = 0.05, precoObj[3], quantVendida[3], result = 0, result2[10]
 		real salVendedor, maior = 0, maiorPreco = 0
 		inteiro i, j = 1, y = 0
 
 
-		para(i = 0; i < 10; i++){
+		para(i = 0; i < 3; i++){
 			escreva("Insira o preço do objeto ", j, ": ")
 			leia(precoObj[i])
 			escreva("Insira a quantidade vendida do objeto ", j ,": ")
@@ -37,9 +37,9 @@ programa
 		}
 
 		j = 1
-		salVendedor = ((sal + result) * acres) + (sal + result)
+		salVendedor = ((sal + result) * acres) + sal
 		limpa()
-		para(i = 0; i < 10; i++){
+		para(i = 0; i < 3; i++){
 
 		escreva("O objeto ", j, " foi vendido ", quantVendida[i], " vezes, por R$ ", precoObj[i], "\nTotal: ", result2[i], "\n\n")
 		j++
@@ -49,14 +49,3 @@ programa
 		escreva("\nO novo salário do vendedor é: ", salVendedor)	
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 1492; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {precoObj, 17, 35, 8}-{quantVendida, 17, 49, 12}-{j, 19, 13, 1}-{y, 19, 20, 1};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
