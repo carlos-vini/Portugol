@@ -13,5 +13,5 @@ Professores: <a href ="https://github.com/Jonathasmaciel">Jônathas Maciel</a> e
 
 ### Estrutura de Dados Vetor ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=13&color=blue&style=?flat-square) --> <a href="https://github.com/carlos-vini/Portugol/tree/main/Estrutura%20de%20Dados%20Vetor">Pasta de Exercícios</a>
 
-### Find the Bug ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=18&color=red&style=?flat-square) --> <a href="https://github.com/carlos-vini/Portugol/tree/main/findThebug">Pasta de Exercícios</a>
+### Find the Bug ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=18&color=red&style=?flat-square) --> <a href="https://github.com/carlos-vini/Portugol/tree/main/Find%20the%20Bug">Pasta de Exercícios</a>
 
