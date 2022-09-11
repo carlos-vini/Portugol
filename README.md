@@ -15,5 +15,5 @@ Professores: <a href ="https://github.com/Jonathasmaciel">Jônathas Maciel</a> e
 
 ### Find the Bug ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=18&color=red&style=?flat-square) --> <a href="https://github.com/carlos-vini/Portugol/tree/main/Find%20the%20Bug">Pasta de Exercícios</a>
 
-### Prova Prática ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=1&color=brown&style=?flat-square) --> <a href="">Prova</a>
+### Prova Prática ![Badge](https://img.shields.io/static/v1?label=Exercicios&message=1&color=brown&style=?flat-square) --> <a href="">Pasta da Prova</a>
 
